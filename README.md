@@ -136,22 +136,24 @@ DevOps           ███████░░░░░░   65%
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/notpranjal-88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notpranjal-88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notpranjal-88&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=notpranjal-88&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-</div>
-
----
-
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+<!--           <img src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=dark&background=000000" alt="GitHub Streak"/> -->
+          <img src="http://github-readme-streak-stats.herokuapp.com?user=notpranjal-88&theme=blue-green&background=000000" alt="GitHub Streak"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/> -->
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh12t&layout=compact&theme=blue-green" alt="Top Langs"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🤝 Connect with Me
 
