@@ -137,14 +137,14 @@ DevOps           ███████░░░░░░   65%
 ## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/pranjal-88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranjal-88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-88&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/notpranjal-88">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notpranjal-88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notpranjal-88&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pranjal-88&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=notpranjal-88&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 </div>
