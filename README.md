@@ -164,6 +164,9 @@ DevOps           ███████░░░░░░   65%
 <a href="https://github.com/pranjal-88">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.instagram.com/pranjal.kishor_811/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 <details>
 <summary>⚡ More About Me</summary>
@@ -176,8 +179,6 @@ DevOps           ███████░░░░░░   65%
 - ⚡ Fun fact: **I can code for hours with just coffee and music!**
   
 </details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pranjal-88&color=blue&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
